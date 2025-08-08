@@ -61,10 +61,4 @@ A clean and simple weather app built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📸 Screenshots
-
-> Make sure to add an actual screenshot image at `images/weather-screenshot.png` for this to show.
-
----
-
 
