@@ -4,7 +4,7 @@ A clean and simple weather app built with **HTML**, **CSS**, and **JavaScript**.
 
 <br>
 
-![Weather App Screenshot](images/weather-screenshot.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/adamhafidz19/weather-app/main/public/images/weather-screenshot.png)
 
 ---
 
